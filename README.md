@@ -1,7 +1,7 @@
 Superuser login:
 
 ```
-user: admin
+user: carlosvinimsouza
 
-pass: admindjango
+pass: admin1234
 ```
